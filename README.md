@@ -1,4 +1,10 @@
-##五股毛線/婚禮系列-頭紗.捧花
+<details>
+  <summary>五股毛線</summary>
+  <br>
+<details>
+  <summary>- 婚禮系列-頭紗.捧花</summary>
+  <br>
+
 <table>
 
   <tr>
@@ -13,7 +19,10 @@
     
   </tr>
 </table>
-##五股毛線/花花毯
+</details>
+<details>
+  <summary>- 花花毯</summary>
+  <br>
 <table>
 
   <tr>
@@ -28,10 +37,19 @@
     
   </tr>
 </table>
+</details>
+</details>
 
-##蕾絲線/衣服/背心/雙層蛋糕背心
+<details>
+  <summary>蕾絲線</summary>
+  <br>
+<details>
+  <summary>- 衣服</summary>
+  <br>
+   
+  <summary>- 背心/雙層蛋糕背心</summary>
+      <br>
 <table>
-
   <tr>
     <td width="33%"><img src="蕾絲線/衣服/背心/雙層蛋糕背心/20250621_141324.jpg" width="240" height="320" style="object-fit: cover;"></td>
       <td width="33%"><img src="蕾絲線/衣服/背心/雙層蛋糕背心/20250708_150349.jpg" width="240" height="320" style="object-fit: cover;"></td> 
@@ -44,7 +62,11 @@
     
   </tr>
 </table>
-##蕾絲線/衣服/背心/外搭背心
+
+  
+ <details>
+  <summary>- 背心/外搭背心</summary>
+  <br>
 <table>
   <tr>
     <td width="33%"><img src="蕾絲線/衣服/背心/外搭背心/1.jpg" width="240" height="320" style="object-fit: cover;"></td>
@@ -58,7 +80,13 @@
     
   </tr>
 </table>
-##蕾絲線/包包/藍色水桶包
+</details>
+
+</details>
+  
+  <details>
+  <summary>蕾絲線/包包/藍色水桶包</summary>
+  <br>
 <table>
   <tr>
     <td width="33%"><img src="蕾絲線/包包/藍色水桶包/1.jpg" width="240" height="320" style="object-fit: cover;"></td>
@@ -72,7 +100,12 @@
     
   </tr>
 </table>
-##蕾絲線/包包/檸檬側背包
+</details>
+
+  <details>
+  <summary>蕾絲線/包包/檸檬側背包</summary>
+  <br>
+
 <table>
   <tr>
     <td width="33%"><img src="蕾絲線/包包/檸檬側背包/20250513_121110.jpg" width="240" height="320" style="object-fit: cover;"></td>
@@ -80,7 +113,11 @@
     <td width="33%"><img src="蕾絲線/包包/檸檬側背包/20250513_121148.jpg" width="240" height="320" style="object-fit: cover;"></td>
   </tr>
 </table>
-##蕾絲線/髮飾
+    <details>
+  </details>
+  <summary>蕾絲線/髮飾</summary>
+  <br>
+
 <table>
   <tr>
     <td width="33%"><img src="蕾絲線/髮飾/IMG20230605170330.jpg" width="240" height="320" style="object-fit: cover;"></td>
@@ -88,4 +125,6 @@
     <td width="33%"><img src="蕾絲線/髮飾/IMG20230605170519.jpg" width="240" height="320" style="object-fit: cover;"></td>
   </tr>
 </table>
-
+</details>
+</details>
+</details>
