@@ -38,16 +38,40 @@
   </tr>
 </table>
 </details>
+
+<details>
+  <summary>- 衣服</summary>
+  <br>
+  <details>
+  <summary>1.背心/超簡單背心</summary>
+<table>
+
+  <tr>
+    <td width="33%"><img src="五股毛線/衣服/背心/超簡單背心/20250616_133729.jpg" width="240" height="320" style="object-fit: cover;"></td>
+      <td width="33%"><img src="五股毛線/衣服/背心/超簡單背心/20250616_134301.jpg" width="240" height="320" style="object-fit: cover;"></td> 
+    <td width="33%"><img src="五股毛線/衣服/背心/超簡單背心/20250616_134650.jpg" width="240" height="320" style="object-fit: cover;"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="五股毛線/衣服/背心/超簡單背心/20250623_120737.jpg" width="240" height="320" style="object-fit: cover;"></td>
+   <td width="33%"><img src="五股毛線/衣服/背心/超簡單背心/20250623_121015.jpg" width="240" height="320" style="object-fit: cover;"></td>
+    <td width="33%"><img src="五股毛線/衣服/背心/超簡單背心/20250623_121607.jpg" width="240" height="320" style="object-fit: cover;"></td>
+    
+  </tr>
+</table>
 </details>
+</details>
+
+</details>
+
 
 <details>
   <summary>蕾絲線</summary>
   <br>
-<details>
+<details >
   <summary>- 衣服</summary>
   <br>
-   
-  <summary>- 背心/雙層蛋糕背心</summary>
+<details>
+  <summary> 1.背心/雙層蛋糕背心</summary>
       <br>
 <table>
   <tr>
@@ -62,10 +86,10 @@
     
   </tr>
 </table>
-
+</details>
   
  <details>
-  <summary>- 背心/外搭背心</summary>
+  <summary> 2.背心/外搭背心</summary>
   <br>
 <table>
   <tr>
@@ -87,7 +111,7 @@
   <summary>- 包包</summary>
   <br>
   <details>
-  <summary>蕾絲線/包包/藍色水桶包</summary>
+  <summary> 1.藍色水桶包</summary>
   <br>
 <table>
   <tr>
@@ -105,7 +129,7 @@
 </details>
 
   <details>
-  <summary>蕾絲線/包包/檸檬側背包</summary>
+  <summary> 2.檸檬側背包</summary>
   <br>
 
 <table>
@@ -115,9 +139,10 @@
     <td width="33%"><img src="蕾絲線/包包/檸檬側背包/20250513_121148.jpg" width="240" height="320" style="object-fit: cover;"></td>
   </tr>
 </table>
-    <details>
-  </details>
-  <summary>蕾絲線/髮飾</summary>
+    </details>
+    </details>
+  <details>
+  <summary>- 髮飾</summary>
   <br>
 
 <table>
