@@ -413,3 +413,23 @@
 </details>
 </details>
 </details>
+
+
+<details>
+  <summary>手機掛繩</summary>
+  <br>
+  <table>
+  <tr>
+    <td width="33%"><img src="手機掛繩/11.jpg" width="240" height="320" style="object-fit: cover;"></td>
+    <td width="33%"><img src="手機掛繩/12.jpg" width="240" height="320" style="object-fit: cover;"></td> 
+    <td width="33%"><img src="手機掛繩/18.jpg" width="240" height="320" style="object-fit: cover;"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="手機掛繩/20.jpg" width="240" height="320" style="object-fit: cover;"></td>
+    <td width="33%"><img src="手機掛繩/20250815_154054.jpg" width="240" height="320" style="object-fit: cover;"></td>
+    <td width="33%"><img src="手機掛繩/5.jpg" width="240" height="320" style="object-fit: cover;"></td>
+    
+  </tr>
+</table>
+</details>
+
